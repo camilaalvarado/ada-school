@@ -18,4 +18,4 @@ git commit: Este comando se usa para guardar los cambios hechos en el proyecto j
 
 git push: Este comando se usa para subir los commits desde la rama local al repositorio
 
-git merge: Este comando se usa para fusionar una o más ramas en la rama que ya está activa.
+git merge: Este comando se usa para fusionar una o más ramas en la rama que ya está activa
